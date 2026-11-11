@@ -1,4 +1,4 @@
-# Projeto 2 — Deep Learning para Detecção de Phishing por URL
+# Projeto PSP8 — Deep Learning para Detecção de Phishing por URL
 
 **Instituição:** Universidade de Brasília (UnB) — Engenharia de Produção  
 **Autora:** Ana Beatriz Maciel de Almeida  
